@@ -1,2 +1,2 @@
 # restapi-cpp
-c++ rest api endpoints from scratch
+c++ rest api endpoints from scratch. Goal is to write a simple http routing handler for http. Some features are added and, but its not fully done yet!
